@@ -1,4 +1,4 @@
 # intro-css
 Introdução ao CSS
 
-Meu primeiro Site
+Meus primeiros passos em CSS

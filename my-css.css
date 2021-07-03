@@ -1,0 +1,13 @@
+.my-div{
+    background-color: green;
+    height: 15px;
+    
+
+}
+/*Quando o tamanho da tela por entre 600 px e 500,
+o background será vermelho*/
+@media(max-width: 600px) and (min-width:500){
+    .my-div{
+        background-color: red;
+    }
+}
